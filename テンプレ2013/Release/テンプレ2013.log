@@ -1,0 +1,26 @@
+﻿2015/04/08 23:36:39 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\saho\Documents\ccs\2014\自作ゲーム\フロルの春風パニック\新歓ゲーム\テンプレ2013\テンプレ2013.vcxproj" (Build ターゲット)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1185,5): warning MSB8012: TargetPath(C:\Users\saho\Documents\ccs\2014\自作ゲーム\フロルの春風パニック\新歓ゲーム\Release\テンプレ2013.exe) does not match the Linker's OutputFile property value (). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用" /LIBPATH:"C:\boost\include\boost-1_57" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\saho\Documents\ccs\2014\自作ゲーム\フロルの春風パニック\新歓ゲーム\Release\テンプレ2013.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\saho\Documents\ccs\2014\自作ゲーム\フロルの春風パニック\新歓ゲーム\Release\テンプレ2013.lib" /MACHINE:X86 /SAFESEH:NO Release\Resource.res
+         Release\draw.obj
+         Release\Easing.obj
+         Release\file.obj
+         Release\flower.obj
+         Release\Graph.obj
+         Release\main.obj
+         Release\manager.obj
+         Release\MyFunc.obj
+         Release\myglobal.obj
+         Release\Scene.obj
+         Release\effect.obj
+         Release\time.obj
+         Release\vector2.obj
+         コード生成しています。
+         コード生成が終了しました。
+         テンプレ2013.vcxproj -> C:\Users\saho\Documents\ccs\2014\自作ゲーム\フロルの春風パニック\新歓ゲーム\Release\テンプレ2013.exe
+     1>プロジェクト "C:\Users\saho\Documents\ccs\2014\自作ゲーム\フロルの春風パニック\新歓ゲーム\テンプレ2013\テンプレ2013.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:03.24
